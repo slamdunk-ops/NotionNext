@@ -8,7 +8,7 @@
 }
 
 
-.text-popup {
+/* .text-popup {
     animation: textPopup 1s;
     color: red;
     user-select: none;
@@ -26,4 +26,4 @@
     100% {
         transform: translateY(-50px);    
     }
-}
+} */
