@@ -56,7 +56,7 @@ export const MenuList = ({ customNav, customMenu }) => {
   ]
 
   if (customNav) {
-    links = links.concat(customNav)
+    //links = links.concat(customNav)
   }
 
   // 如果 开启自定义菜单，则覆盖Page生成的菜单
