@@ -309,15 +309,19 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
+      name: '有何不可',
+      artist: 'Vae',
       url: 'https://ci-sycdn.kuwo.cn/9509a6dd04648b30ca0be95a7ca0b6a1/668a20e7/resource/n3/64/88/986676456.mp3?bitrate$128&from=vip',
-      url2: '/',
       cover:
-        ''
-        //'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://www.kkbox.com/hk/tc/album/CqvLwkAxmpvC-nPNNb'
     },
-     
+    {
+      name: '素颜',
+      artist: 'Vae',
+      url: 'https://li-sycdn.kuwo.cn/5ef817b08009b3ce6648108d05ebab82/668a2faf/resource/n1/42/89/4134585330.mp3?bitrate$128&from=vip',
+      cover:
+        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F301085530_759018&psig=AOvVaw1urQm69QTkePwwWjNFnfMR&ust=1720418659681000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC7pouhlIcDFQAAAAAdAAAAABAJ'
+    },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
