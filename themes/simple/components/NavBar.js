@@ -53,8 +53,7 @@ export default function NavBar(props) {
               placeholder="Type then hit enter to search..."
             />
           )}
-          {!showSearchInput }
-          {/* && <MenuList {...props} /> */}
+          {!showSearchInput && <MenuList {...props} />}
         </div>
 
         <div className="absolute right-12 h-full text-center px-2 flex items-center text-blue-400  cursor-pointer">
