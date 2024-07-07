@@ -313,14 +313,14 @@ const BLOG = {
       artist: 'Vae',
       url: 'https://ci-sycdn.kuwo.cn/9509a6dd04648b30ca0be95a7ca0b6a1/668a20e7/resource/n3/64/88/986676456.mp3?bitrate$128&from=vip',
       cover:
-        'https://www.kkbox.com/hk/tc/album/CqvLwkAxmpvC-nPNNb'
+        'https://i.kfs.io/album/global/35831367,0v1/fit/500x500.jpg'
     },
     {
       name: '素颜',
       artist: 'Vae',
       url: 'https://li-sycdn.kuwo.cn/5ef817b08009b3ce6648108d05ebab82/668a2faf/resource/n1/42/89/4134585330.mp3?bitrate$128&from=vip',
       cover:
-        'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F301085530_759018&psig=AOvVaw1urQm69QTkePwwWjNFnfMR&ust=1720418659681000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC7pouhlIcDFQAAAAAdAAAAABAJ'
+        'http://5b0988e595225.cdn.sohucs.com/images/20190314/a1c8164d2c404141b890fc821c69fc6b.jpeg'
     },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
