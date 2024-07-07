@@ -12,15 +12,13 @@ import WWAds from '@/components/WWAds'
 export default function SideBar (props) {
   const { notice } = props
   return (<>
-
-            <Catalog {...props} />
-
             <Live2D />
 
+            {/* <Catalog {...props} />
             <Announcement post={notice} />
 
             <AdSlot/>
-            <WWAds orientation="vertical" className="w-full" />
+            <WWAds orientation="vertical" className="w-full" /> */}
 
     </>)
 }
