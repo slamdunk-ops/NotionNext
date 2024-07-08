@@ -1018,7 +1018,6 @@ code[class*='language-'] {
 
 .notion-list-item-property .notion-property-date,
 .notion-list-item-property .notion-property-created_time,
-.notion-list-item-property .notion-property-last_edited_time,
 .notion-list-item-property .notion-property-url {
   display: inline-block;
   color: var(--fg-color-3);
