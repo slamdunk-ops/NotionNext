@@ -311,14 +311,14 @@ const BLOG = {
     {
       name: '有何不可',
       artist: 'Vae',
-      url: 'mp3/986676456.mp3',
+      url: 'https://ci-sycdn.kuwo.cn/e320067c4aff18b3cca9cddc83079aac/66925600/resource/n3/64/88/986676456.mp3?bitrate$128&from=vip',
       cover:
         'https://i.kfs.io/album/global/35831367,0v1/fit/500x500.jpg'
     },
     {
       name: '素颜',
       artist: 'Vae',
-      url: 'mp3/986676456.mp3',
+      url: 'https://ci-sycdn.kuwo.cn/e320067c4aff18b3cca9cddc83079aac/66925600/resource/n3/64/88/986676456.mp3?bitrate$128&from=vip',
       cover:
         'http://5b0988e595225.cdn.sohucs.com/images/20190314/a1c8164d2c404141b890fc821c69fc6b.jpeg'
     },
