@@ -318,7 +318,7 @@ const BLOG = {
     {
       name: '素颜',
       artist: 'Vae',
-      url: 'https://ci-sycdn.kuwo.cn/e320067c4aff18b3cca9cddc83079aac/66925600/resource/n3/64/88/986676456.mp3?bitrate$128&from=vip',
+      url: 'https://li-sycdn.kuwo.cn/9e61d2169e91b63b8c562b99bd811bc8/66924626/resource/n1/42/89/4134585330.mp3?bitrate$128&from=vip',
       cover:
         'http://5b0988e595225.cdn.sohucs.com/images/20190314/a1c8164d2c404141b890fc821c69fc6b.jpeg'
     },
